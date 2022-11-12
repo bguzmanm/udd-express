@@ -1,0 +1,1 @@
+{"id":1,"message":"hola, que linda tu foto.... como te llamas?","user":"perverthon"},{"id":2,"message":"gracias, me la tomó mi mami, me llamo Inocencia","user":"inocencia"},{"id":3,"message":"tu nombre es tan lindo como tu, inocencia","user":"perverthron"},

@@ -1,0 +1,15 @@
+{
+  "name": "udd-express",
+  "version": "1.0.0",
+  "description": "primer proyecto con express en bootcamp udd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Guzman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
